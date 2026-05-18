@@ -11,7 +11,7 @@ source "arch/$(SRCARCH)/Kconfig"
 
 config ARCH_CONFIGURES_CPU_MITIGATIONS
 	bool
-
+ewrwerewrewr
 if !ARCH_CONFIGURES_CPU_MITIGATIONS
 config CPU_MITIGATIONS
 	def_bool y
